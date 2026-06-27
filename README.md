@@ -4,12 +4,6 @@
   Software Engineering student at the University of Brasilia, FCTE campus.
 </p>
 
-<p align="center">
-  <a href="https://github.com/luussato1">
-    <img src="https://komarev.com/ghpvc/?username=luussato1&style=flat-square&color=0e75b6" alt="Profile views" />
-  </a>
-</p>
-
 ## About me
 
 I am building my foundation in web development, databases, software engineering practices, and user-focused applications.
