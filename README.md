@@ -2,7 +2,7 @@
 
 **Estudante de Engenharia de Software na UnB · Interesse em Dados e BI · Base em desenvolvimento web**
 
-[LinkedIn — vamos conversar](https://www.linkedin.com/in/luussato)
+[LinkedIn](https://www.linkedin.com/in/luussato)
 
 ## Sobre mim
 
